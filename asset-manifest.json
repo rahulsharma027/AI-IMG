@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.70bb428a.css",
+    "main.js": "/static/js/main.47c23df8.js",
+    "static/media/ai.png": "/static/media/ai.566d75c70ce333ffc7a1.png",
+    "static/media/possibility.png": "/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog06.jpg": "/static/media/blog06.8f70838410d8b855b534.jpg",
+    "static/media/blog01.jpg": "/static/media/blog01.9914b5b23685215b7dac.jpg",
+    "static/media/blog05.jpg": "/static/media/blog05.04177b7f53ecd547f48a.jpg",
+    "static/media/people.png": "/static/media/people.9eb6b760676e3e5fabab.png",
+    "static/media/blog02.jpg": "/static/media/blog02.7699aceb56bc05ef76c0.jpg",
+    "static/media/default.png": "/static/media/default.3eaa93918751120ebcac.png",
+    "static/media/blog04.jpg": "/static/media/blog04.8908c5f4ebb58e483995.jpg",
+    "static/media/blog03.jpg": "/static/media/blog03.0220b9c09d8683b56e0a.jpg",
+    "static/media/logo.svg": "/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/index.html",
+    "main.70bb428a.css.map": "/static/css/main.70bb428a.css.map",
+    "main.47c23df8.js.map": "/static/js/main.47c23df8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70bb428a.css",
+    "static/js/main.47c23df8.js"
+  ]
+}
